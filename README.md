@@ -97,7 +97,7 @@ NOTE: There must be a space between link and the title in the markdown code
 
 <!-- Images -->
 #### Adding Images: <br>
-The following is the Markdown 
+The following is the Markdown Logo
 <br><br>
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
